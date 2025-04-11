@@ -1,0 +1,24 @@
+.pink-bg {
+    background-color: #ff000044;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.big {
+    font-size: 24px;
+}
+
+.bigger {
+    font-size: 36px;
+}
+
+#blue {
+    color: #0000ff;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+.big#bold {
+    background-color: #00ff0066;
+}
