@@ -1,0 +1,14 @@
+.dark,
+.light {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.dark {
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(360, 100%, 100%);
+}
+
+.light {
+    background-color: hsl(60, 90%, 60%);
+}
